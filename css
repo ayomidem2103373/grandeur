@@ -14,7 +14,16 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Text Domain: blogus
 */
 :root {
-	--pri-color: #1e73be;
+	--pri-color: #0025ff;
+	--head-color: #212121;
+	--stext-color: #000;
+	--text-color: #718096;
+	--wtext-color: #fff;
+	--bg-color: #fff;
+	--box-color: #fff;
+	--border-color: #e2e8f0;
+	--wrap-color: #eff2f7;
+	--grady-color: #0025ff;
 	--bxsh: 0 1px 3px rgb(0 0 0 / 15%);
 	--bxshover: 0 4px 60px 0 rgba(0, 0, 0, 0.2);
 	--bstras: 0 4px 60px 0 rgba(0, 0, 0, 0.2);
